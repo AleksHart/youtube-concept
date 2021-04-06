@@ -2,7 +2,7 @@
 Проект выполнила: Хартанович Александра
 
 ## Используемые технологии:
--HTMLL;
--CSS;
--Normalize.css;
+-HTMLL
+-CSS
+-Normalize.css
 -SVG-Sprites
